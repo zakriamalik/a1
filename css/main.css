@@ -1,0 +1,41 @@
+@charset "utf-8";
+/*main css file*/ 
+
+/*header style css code*/
+header {
+    margin-top: 2em;
+    }
+
+header h1 {
+    padding: 10px; 
+    height: 100px; 
+    color:floralwhite; 
+    text-align: center;
+    text-shadow: 2px 2px red; 
+    font-size: 5em; 
+    background: linear-gradient(white, black, white);
+    }
+
+/*footer style css code*/
+footer { 
+    font-size: smaller;
+    text-align: center;
+    background: linear-gradient(black, white, black);
+    padding: 2em;
+    }
+
+/*fieldset and legend style css code*/
+fieldset {
+    border: 1px solid grey;
+    box-shadow:  -1px 1px grey, -2px 2px grey, -3px 3px grey, -4px 4px grey, -5px 5px grey;
+    width: 80%;
+    padding: 2em;
+    margin: auto;
+    background-color: #F5F5F5;
+    }
+
+legend{
+    color:darkred;
+    font-family: sans-serif;
+    font-size: large;
+    }
