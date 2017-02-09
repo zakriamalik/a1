@@ -19,6 +19,12 @@ footer {
     text-align: center;
     }
 
+/*image style css code*/
+img { 
+    display: block;
+    margin: auto;
+    }
+
 /*fieldset and legend style css code*/
 fieldset {
     border: 1px solid grey;
