@@ -3,39 +3,33 @@
 
 /*header style css code*/
 header {
-    margin-top: 2em;
+    margin-top: 1em;
     }
 
 header h1 {
-    padding: 10px; 
-    height: 100px; 
-    color:floralwhite; 
+    height: 50px; 
+    color:black; 
     text-align: center;
-    text-shadow: 2px 2px red; 
-    font-size: 5em; 
-    background: linear-gradient(white, black, white);
+    font-size: 2em;
     }
 
 /*footer style css code*/
 footer { 
     font-size: smaller;
     text-align: center;
-    background: linear-gradient(black, white, black);
-    padding: 2em;
     }
 
 /*fieldset and legend style css code*/
 fieldset {
     border: 1px solid grey;
-    box-shadow:  -1px 1px grey, -2px 2px grey, -3px 3px grey, -4px 4px grey, -5px 5px grey;
     width: 80%;
-    padding: 2em;
+    padding: 1em;
     margin: auto;
-    background-color: #F5F5F5;
+    background-color: lightgoldenrodyellow;
     }
 
 legend{
-    color:darkred;
+    color:black;
     font-family: sans-serif;
     font-size: large;
     }
